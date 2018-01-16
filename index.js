@@ -82,4 +82,5 @@ function placeOrder(cardNumber) {
   }
 }
 
-placeOrder(123)
+// Matt's test to console
+// placeOrder(123)
