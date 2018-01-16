@@ -81,3 +81,5 @@ function placeOrder(cardNumber) {
     cart = []
   }
 }
+
+placeOrder(123)
